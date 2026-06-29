@@ -596,7 +596,7 @@ p(classes: 'contact-desc mx-auto', [
 text('Currently open for new opportunities. Whether you have a question or just want to say hi, I\'ll try my best to get back to you!')
 ]),
 div(classes: 'contact-links mt-8', [
-a(classes: 'btn btn-primary', href: 'mailto:yousefsalah8cs@gmail.com', [
+a(classes: 'btn btn-primary', href: 'mailto:yousef81cs@gmail.com', [
 i(attributes: {'data-lucide': 'mail'}, []),
 text('yousefsalah8cs@gmail.com')
 ])

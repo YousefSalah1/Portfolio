@@ -598,7 +598,7 @@ text('Currently open for new opportunities. Whether you have a question or just 
 div(classes: 'contact-links mt-8', [
 a(classes: 'btn btn-primary', href: 'mailto:yousef81cs@gmail.com', [
 i(attributes: {'data-lucide': 'mail'}, []),
-text('yousefsalah8cs@gmail.com')
+text('yousef81cs@gmail.com')
 ])
 ]),
 div(classes: 'social-links mt-8', [

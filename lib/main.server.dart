@@ -11,7 +11,7 @@ void main() {
 
   runApp(
     Document(
-      base: '/',
+      base: 'Portfolio',
       title: 'Youssef Salah Nabil — Flutter Developer',
       head: [
         meta(name: 'viewport', content: 'width=device-width, initial-scale=1.0'),
